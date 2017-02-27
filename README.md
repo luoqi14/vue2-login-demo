@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+> 采用vue-cli + webpack新建项目，vuex + vue-router + axios + ES6 + mintUI速学
+
 ## Build Setup
 
 ``` bash
